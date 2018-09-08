@@ -1,3 +1,4 @@
+//A program to input a number and check it to be even or odd using arithmetic and relational operators
 #include<stdio.h>
 #include<conio.h>
 main()
