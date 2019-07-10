@@ -1,3 +1,7 @@
+/*
+WAP to input userid and password. Don't show the characters while getting input the password, but show astrisk (*) for 
+typed characters. If userid is abes and password is gahziabad then says "authentication pass" else say "authentiation fail"
+*/
 #include<stdio.h>
 #include<string.h>
 main()
